@@ -31,8 +31,6 @@ Welcome to the **Solana Copy Trading Bot**, a cutting-edge tool designed to repl
 
 ## **Installation & Setup**
 
-This repository includes 2 projects (script bot and UI-bot). You can use anything
-
 ### 1. **Clone the Repository**  
 ```bash
 git clone https://github.com/donpushme/copy-trading-bot.git  
